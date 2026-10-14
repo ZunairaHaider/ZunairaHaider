@@ -1,81 +1,99 @@
 # Hi, I'm Zunaira Haider 👋
 
-Master’s student in Mathematics in Science and Engineering at the Technical University of Munich (TUM), with interests in data analysis, optimization, machine learning, and scientific visualization.
+🎓 **M.Sc. Mathematics in Science and Engineering | Technical University of Munich (TUM)**
 
-I am currently building practical skills in:
+I'm a Master's student with a strong interest in **Data Science, Machine Learning, Mathematical Optimization, and Data Visualization**.
 
-* Python for data analysis
-* Data visualization
-* Optimization and machine learning applications
+My academic and project experience combines mathematical methods with practical applications in data analysis, neural network optimization, and scientific computing.
 
----
-
-## Technical Skills
-
-### Programming & Data Analysis
-
-* Python
-* Pandas
-* MATLAB
-
-### Visualization Tools
-
-* Tableau
-* Power BI
-* ParaView
-
-### Other Tools
-
-* Microsoft Excel
-* LaTeX
-* Git & GitHub
+I enjoy exploring how data and mathematical models can be used to understand complex problems and develop efficient solutions.
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (currently learning)
+- MATLAB
+
+**Machine Learning & Optimization**
+- PyTorch
+- Neural Networks
+- Model Pruning and Optimization
+- Hyperparameter Optimization (Optuna)
+
+**Data Visualization**
+- Tableau
+- Power BI (fundamentals)
+- ParaView
+- Scientific Visualization
+
+**Other Tools**
+- Microsoft Excel
+- Git & GitHub
+- LaTeX
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Neural Network Optimization | TUM × Schaeffler AG
+
+**Constructive Topology Search vs. Pruning for Compact Neural Networks**
+
+Collaborative research case study conducted at the Technical University of Munich in cooperation with Schaeffler AG.
+
+The project investigated how neural network architectures can be optimized to reduce model complexity while maintaining predictive performance.
+
+**Key Highlights:**
+- Compared multiple neural network pruning methods with constructive topology optimization (Adagos).
+- Conducted experiments on synthetic datasets and real-world electric motor temperature data (PMSM).
+- Evaluated model performance, sparsity, computational efficiency, and prediction error.
+- Applied Python, PyTorch, mathematical optimization, and systematic experimental analysis.
+
+🔗 **[Explore the GitHub Repository](https://github.com/ZunairaHaider/Neural-Network-Optimization)**
+
+---
 
 ### 📊 Visual Data Analytics Project
 
 Scientific and business data visualization using ParaView and Tableau.
 
-**Topics covered:**
+**Key Highlights:**
+- Volume rendering and vector field visualization.
+- Interactive Tableau dashboards.
+- Sales and profit analysis.
+- Data exploration and visual communication.
 
-* Volume rendering
-* Vector field visualization
-* Interactive dashboards
-* Sales and profit analysis
-
-🔗 Repository:
-https://github.com/ZunairaHaider/visual-data-analytics-project
+🔗 **[Explore the GitHub Repository](https://github.com/ZunairaHaider/visual-data-analytics-project)**
 
 ---
 
 ### 📈 Market Data Analyzer
 
-Python pipeline for financial market data analysis and visualization.
+Python-based financial market data analysis and visualization.
 
-**Features:**
+**Key Highlights:**
+- Financial time-series analysis.
+- Data quality checks and preprocessing.
+- Volatility and correlation analysis.
+- Sharpe ratio and drawdown analysis.
 
-* Financial time-series analysis
-* Data quality checks
-* Volatility and correlation analysis
-* Sharpe ratio and drawdown analysis
-
-🔗 Repository:
-https://github.com/ZunairaHaider/market-data-analyzer
+🔗 **[Explore the GitHub Repository](https://github.com/ZunairaHaider/market-data-analyzer)**
 
 ---
 
+## 📚 Currently Exploring
 
-## Current Focus
-
-* Building Python data analysis projects
-* Learning SQL for data analytics
-* Exploring machine learning optimization techniques
-* Strengthening practical data visualization skills
+- Python and SQL for data analytics.
+- Machine learning and optimization methods.
+- Data visualization and reporting.
+- Practical applications of mathematical modeling and data science.
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-* GitHub: https://github.com/ZunairaHaider
+- **GitHub:** [ZunairaHaider](https://github.com/ZunairaHaider)
