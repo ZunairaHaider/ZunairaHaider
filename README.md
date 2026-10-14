@@ -66,17 +66,6 @@ https://github.com/ZunairaHaider/market-data-analyzer
 
 ---
 
-## Current Work
-
-### 🤖 ANN Optimization Case Study *(In Progress)*
-
-Currently working on an industry case study project focused on the optimization of Artificial Neural Networks (ANNs) in collaboration between the Technical University of Munich (TUM) and Schaeffler AG.
-
-The project involves exploring optimization approaches for neural network performance and analyzing model behavior in practical industrial applications.
-
-The repository and project details will be published after completion.
-
----
 
 ## Current Focus
 
